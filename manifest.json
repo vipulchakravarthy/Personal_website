@@ -1,0 +1,29 @@
+{
+    "name": "Vipul chakravarthy",
+    "short_name": "Vipul",
+    "theme_color": "#ffcbe4",
+    "background_color": "#fa99ca",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://vipulchakravarthy.netlify.app/",
+    "description": "Blog and Resume for Christine Dodrill",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "https://vipulchakravarthy.netlify.app/images/vipul_01.jpg",
+            "sizes": "1024x1024"
+        },
+        {
+            "src": "https://vipulchakravarthy.netlify.app/images/logo.png",
+            "sizes": "1024x1024"
+        },
+        {
+            "src": "https://vipulchakravarthy.netlify.app/images/bac.jpeg",
+            "sizes": "1024x1024"
+        },
+        {
+            "src": "https://vipulchakravarthy.netlify.app/images/background.jpg",
+            "sizes": "1024x1024"
+        }
+    ]
+}
